@@ -202,7 +202,6 @@ Implemented a lightweight AI Agent capable of:
 ### Programming
 
 - Python
-- SQL
 
 ### Machine Learning
 
@@ -265,7 +264,7 @@ Implemented a lightweight AI Agent capable of:
 ```
 celebal_tecnology
 │
-├── Week1_SQL
+├── Week1_Linear_Algebra_Statistics_Probability
 ├── Week2_Customer_Intelligence
 ├── Week3_Tesla_Prediction
 ├── Week4_CIFAR10_ANN_CNN
