@@ -11,7 +11,7 @@ Hi, I'm **Pradeep Gorai**.
 📍 India
 
 - GitHub: https://github.com/Pradeep-2712
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: *(https://www.linkedin.com/in/pradeepgorai/)*
 
 ---
 
@@ -23,18 +23,45 @@ This repository includes hands-on implementations of various AI/ML concepts lear
 
 # 📂 Projects
 
-## 📌 Week 1 – SQL Library Management System
+## 📌 Week 1 – Linear Algebra, Statistics & Probability
 
-- Database Design
-- Table Creation
-- Relationships
-- SQL Queries
-- CRUD Operations
+### Overview
 
-**Skills**
-- SQL
-- MySQL
-- Database Design
+Implemented a Jupyter Notebook covering the mathematical foundations required for Machine Learning and Data Science.
+
+### Topics Covered
+
+- Linear Algebra
+  - Vectors
+  - Matrices
+  - Matrix Operations
+  - Eigenvalues & Eigenvectors
+  - Dot Product
+
+- Statistics
+  - Mean
+  - Median
+  - Mode
+  - Variance
+  - Standard Deviation
+  - Correlation
+
+- Probability
+  - Probability Distributions
+  - Conditional Probability
+  - Bayes' Theorem
+  - Random Variables
+  - Expected Value
+
+### Skills
+
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Linear Algebra
+- Statistics
+- Probability
 
 ---
 
