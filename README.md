@@ -1,4 +1,3 @@
-# celebal_tecnology
 # 🚀 Celebal Technology – Data Science Internship Projects
 
 Welcome to my **Celebal Technology Data Science Internship** repository! This repository contains all the assignments and projects completed during my internship, covering Machine Learning, Deep Learning, Computer Vision, NLP, Generative AI, Retrieval-Augmented Generation (RAG), and AI Agents.
